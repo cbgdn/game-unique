@@ -3,14 +3,14 @@ import Reveal from 'reveal.js';
 
 import 'reveal.js/css/reveal.css';
 // Themes: beige, black, blood, league, moon, night, serif, simple, sky, solarized, white
-import 'reveal.js/css/theme/white.css';
+import 'reveal.js/css/theme/league.css';
 // Theme used for syntax highlighting of code
 import 'reveal.js/lib/css/zenburn.css';
 
 // configuration see https://github.com/hakimel/reveal.js#configuration
 Reveal.initialize({
     history: true,
-    transition: 'slide', // none/fade/slide/convex/concave/zoom
+    transition: 'none', // none/fade/slide/convex/concave/zoom
     hideAddressBar: true,
     dependencies: [
         // DONT LOAD PLUGINS HERE!

@@ -1,7 +1,7 @@
 {
-  "name": "revealjs-boilerplate",
+  "name": "Einzigartig",
   "version": "1.0.0",
-  "description": "Create presentations with reveal.js",
+  "description": "Mit einzigartigen Antworten muss beantwortet werden: Was bin ich?",
   "main": "index.js",
   "scripts": {
     "build": "webpack -d",
