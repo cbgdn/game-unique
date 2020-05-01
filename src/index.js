@@ -1,6 +1,7 @@
 import main from './main';
 import Reveal from 'reveal.js';
 
+import './style.css';
 import 'reveal.js/css/reveal.css';
 // Themes: beige, black, blood, league, moon, night, serif, simple, sky, solarized, white
 import 'reveal.js/css/theme/league.css';
